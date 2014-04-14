@@ -1,4 +1,4 @@
-Thinkjosh_tumblr
-================
+ThinkJosh Tumblr Theme
+======================
 
-Think Josh Tumblr Theme
+This hold all thinkjosh.tumblr.com theme files
